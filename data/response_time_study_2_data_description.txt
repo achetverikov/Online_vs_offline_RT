@@ -1,0 +1,29 @@
+Study_2_data.csv contains the results of the Study 2 described in Chetverikov, Upravitelev (2015) Online vs. Offline: Web as a medium for reaction times data collection. doi: 10.3758/s13428-015-0632-x. You can use this data as you wish as long as you cite the original paper. 
+
+Description of the columns in Study_2_data.csv
+
+uid - unique ID for each participant
+age - age
+gender - gender (0 - male, 1 - female)
+set_size - set size, the number of stimuli on screen
+thisN - trial number
+targetPos - position of the target, from left to right
+targetColor - target color (hue, 0 to 360)
+rt - response time
+answer - answer
+correct - answer accuracy
+cpu - CPU name (as entered by participant)
+cpu_score - CPU score
+gpu - GPU name (as entered by participant)
+gpu_brand - GPU brand
+gpu_score - GPU score
+ram_n - amount of RAM, gb
+os - OS
+browser - browser
+browser_major - browser major version
+os_version - OS version
+monitor - display type
+refresh_rate - display refresh rate
+screen_size_x, screen_size_y - display resolution, px
+pc - type of PC
+keyboard - keyboard name

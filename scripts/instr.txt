@@ -1,0 +1,28 @@
+
+Instruction was given in Russian. Translation:
+
+In this study, we aim to understand how accurate are the response times measured on different devices and under different conditions.
+
+Your task is very simple. A set of the squares in different colors will appear on the screen. The number of the squares may vary.
+
+Your goal is to find the square of the target color and press corresponding key on the keyboard. The keys will be labeled under the squares: A, S, D for positions on the left and H, J, K for positions on the right.
+
+Please, press A, S, D with the index, middle and ring fingers of the left hand and H, J, K with the index, middle and ring fingers of the right hand.
+
+Try to response as fast as you can.
+
+Press "Space" to start.
+
+Instruction in Russian:
+
+В этом исследовании мы изучаем точность измерения времени реакции на различных устройствах и в различной обстановке. 
+
+Ваша задача будет очень простой. На экране будет появляться набор квадратов разных цветов. Количество квадратов может варьироваться.
+
+Ваша цель - определить положение квадрата определенного цвета в ряду и нажать на клавиатуре соответствующую кнопку. Кнопки будут подписаны под квадратами. Это будут клавиши A, S, D для позиций слева и клавиши H, J, K для позиций справа. 
+
+Пожалуйста, используйте для нажатия на клавиши A,S,D указательный, средний и безымянный пальцы левой руки, а для нажатия на H, J, K -  указательный, средний и безымянный пальцы правой руки.
+
+Постарайтесь отвечать как можно быстрее. 
+
+Нажмите пробел для начала. 

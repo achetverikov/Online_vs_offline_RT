@@ -1,0 +1,17 @@
+Two folders ('online' and 'offline') contain scripts used for online and offline response time measurements in 
+Chetverikov, Upravitelev (2015) Online vs. Offline: Web as a medium for reaction times data collection. doi: 10.3758/s13428-015-0632-x  
+You can use them or modify them as you wish as long as you cite the original paper. 
+
+All scripts contain Russian text in instructions and messages shown to participants. 
+
+Offline scripts are made with the help of PsychoPy (http://psychopy.org). The script for Cerdus response box would also require pyxid library (https://github.com/cedrus-opensource/pyxid) as well as an actual Cedrus response box, of course. 
+
+Online scripts would require a running web-server with PHP and MySQL. "spssrru_gbtests.sql" file contains the structure for the necessary MySQL tables. The access to MySQL server is configured in the beginning of cnf.php file. The experiment begins with test0.php, but the main work is done by JavaScript in script.js. Several additional libraries are required (we did not include them in the archive to avoid any copyright-related issues):
+
+hsv_to_rgb.js - http://snipplr.com/view/14590/hsv-to-rgb/
+paper-full.min.js - Paper.js v0.9.17, http://paperjs.org/
+ua-parser.min.js - UAParser.js v0.7.3, https://github.com/faisalman/ua-parser-js
+nv.d3.min.js, nv.d3.min.css - nvd3 v1.7.0, http://nvd3.org/
+jquery.json-2.2.min.js - jQuery JSON, v2.2, https://github.com/krinkle/jquery-json
+jquery-validate/jquery.validate.pack.js - http://bassistance.de/jquery-plugins/jquery-plugin-validation/, jQuery validation plug-in 1.6
+shuffle function from http://jsfromhell.com/array/shuffle should be included in script.js

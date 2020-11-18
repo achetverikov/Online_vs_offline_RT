@@ -1,0 +1,16 @@
+Study_1_data.csv contains the results of the Study 1 described in Chetverikov, Upravitelev (2015) Online vs. Offline: Web as a medium for reaction times data collection. doi: 10.3758/s13428-015-0632-x. You can use this data as you wish as long as you cite the original paper. 
+
+Description of the columns in Study_1_data.csv
+
+participant_id - unique ID for each participant
+age - age
+gender - gender (0 - male, 1 - female)
+locale - experimental setting
+localeOrder - the order of experimental setting for this participant (i.e., 1 means that this setting was first, and 4 that it was last)
+trialN - trial number
+set_size - set size, the number of stimuli on screen
+targetPos - position of the target, from left to right
+targetColor - target color (hue, 0 to 360)
+rt - response time
+answer - answer
+correct - answer accuracy
