@@ -1,0 +1,33 @@
+
+Copyright (c) 2015 Chetverikov, Upravitelev
+
+----------------------------------------------------------------------
+Permission is hereby granted, free of charge, to any person 
+obtaining, using and/or copying this data, scripts, and associated 
+documentation (the "Materials"), to use, copy, modify, merge, 
+publish, distribute, sublicense this Materials and to permit 
+persons to whom the Materials is furnished to do so, subject to
+the following conditions:
+
+When using this Materials, please cite the original paper: 
+Chetverikov, A., & Upravitelev, P. (2015). Online versus offline: 
+The Web as a medium for response time data collection. Behavior 
+Research Methods, (July). http://doi.org/10.3758/s13428-015-0632-x
+
+Additionally, please cite the data: 
+Chetverikov, A. (2017, June 21). Datasets and experiment scripts: Online versus offline: The Web as a medium for response time data collection. http://doi.org/10.17605/OSF.IO/Z26P3 
+
+The above copyright notice, this permission notice, and the following 
+disclaimer shall be included in all copies or substantial portions 
+of the Materials.
+
+THIS MATERIALS IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------------------------------------
+If you have the questions contact me at andrey@hi.is or andrey.a.chetverikov@gmail.com.
